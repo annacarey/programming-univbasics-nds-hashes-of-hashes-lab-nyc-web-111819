@@ -49,7 +49,6 @@ earth = {
        label: "Class",
        sub_category: {
          label: "Order"
-         
      }
 }
   
